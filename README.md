@@ -57,13 +57,30 @@ I am a passionate developer currently focusing on creating scalable web applicat
 
 </div>
 
-### 🐍 My Contributions
+<h2 align="center">🐍 Contribution Activity</h2>
 
-![GitHub Snake](https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+My coding journey, visualized through continuous contributions and consistency.
+</p>
 
----
+<br/>
 
-### 📊 GitHub Analytics
+<p align="center">
+<img src="https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+<br/><br/>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+A quick overview of my development activity and technology usage.
+</p>
+
+<br/>
 
 <!-- GitHub General Stats & Top Languages -->
 <p align="center">
@@ -75,6 +92,7 @@ I am a passionate developer currently focusing on creating scalable web applicat
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhoshcv07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
