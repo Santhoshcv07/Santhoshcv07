@@ -21,7 +21,6 @@ I am a passionate developer currently focusing on creating scalable web applicat
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Santhosh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
