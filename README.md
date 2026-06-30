@@ -2,6 +2,7 @@
 
 <img width="920" height="280" alt="WhatsApp Video 2026-06-30 at 5 32 00 PM" src="https://github.com/user-attachments/assets/a0e78ead-c737-4270-b48b-25b95285e069" />
 </div>
+
 <h1 align="center">
 👋 Hi, I'm Santhosh C V
 </h1>
