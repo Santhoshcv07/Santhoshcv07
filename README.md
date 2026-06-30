@@ -18,5 +18,7 @@ I am a passionate developer currently focusing on creating scalable web applicat
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+### 🐍 My Contributions
 
+![GitHub Snake](https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg)
 
