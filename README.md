@@ -1,7 +1,5 @@
 <div align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="https://github.com/user-attachments/assets/4d21d23b-407f-4d31-a08e-f81f4975f826" type="video/mp4">
-  </video>
+<img width="960" height="540" alt="WhatsApp Video 2026-06-30 at 4 21 49 PM" src="https://github.com/user-attachments/assets/4fe312c5-6b13-4ef2-9187-b2f00a6231d5" />
 </div>
 # 👋 Hi there, I'm Santhosh C V
 **Full-Stack Developer | Building AI tools & Web Applications**
@@ -71,6 +69,7 @@ I am a passionate developer currently focusing on creating scalable web applicat
 </p>
 
 </div>
+
 
 
 
