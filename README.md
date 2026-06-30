@@ -1,7 +1,10 @@
 <div align="center">
+  <img src="
+https://github.com/user-attachments/assets/4d21d23b-407f-4d31-a08e-f81f4975f826
+" width="100%" alt="Aesthetic Banner" />
+<br/>
 
 # 👋 Hi there, I'm Santhosh C V
-
 **Full-Stack Developer | Building AI tools & Web Applications**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Passionate+about+AI+integration;Always+learning+new+technologies)](https://git.io/typing-svg)
@@ -69,3 +72,16 @@ I am a passionate developer currently focusing on creating scalable web applicat
 </p>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
