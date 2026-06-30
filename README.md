@@ -2,19 +2,16 @@
 
 <img width="920" height="280" alt="WhatsApp Video 2026-06-30 at 5 32 00 PM" src="https://github.com/user-attachments/assets/a0e78ead-c737-4270-b48b-25b95285e069" />
 </div>
-<h1 align="center">
-👋 Hi, I'm Santhosh C V
-</h1>
 
-<h3 align="center">
-• Full-Stack Developer • 
-</h3>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Passionate+about+AI+integration;Always+learning+new+technologies)](https://git.io/typing-svg)
 
 </div>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" />
+</p>
 
 <div align="center">
 <br/>
