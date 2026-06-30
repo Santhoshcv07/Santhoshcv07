@@ -19,8 +19,4 @@ I am a passionate developer currently focusing on creating scalable web applicat
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-### 📊 GitHub Stats
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
