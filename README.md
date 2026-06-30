@@ -22,7 +22,7 @@ I am a passionate developer currently focusing on creating scalable web applicat
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Santhoshcv07&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ---
 
@@ -36,14 +36,21 @@ I am a passionate developer currently focusing on creating scalable web applicat
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+
+---
+
+### 🐍 My Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ### 📊 GitHub Analytics
 
 <!-- GitHub General Stats & Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=tokyonight&hide_border=true" alt="Santhosh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Santhosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 <!-- GitHub Contribution Streak -->
@@ -57,14 +64,8 @@ I am a passionate developer currently focusing on creating scalable web applicat
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Santhoshcv07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Santhoshcv07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="Trophies" />
   </a>
 </p>
-
----
-
-### 🐍 My Contributions
-
-![GitHub Snake](https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg)
 
 </div>
