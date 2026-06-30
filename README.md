@@ -1,5 +1,5 @@
 <div align="center">
-<img width="960" height="540" alt="WhatsApp Video 2026-06-30 at 4 21 49 PM" src="https://github.com/user-attachments/assets/4fe312c5-6b13-4ef2-9187-b2f00a6231d5" />
+<img width="750" height="250" alt="WhatsApp Video 2026-06-30 at 4 21 49 PM" src="https://github.com/user-attachments/assets/4fe312c5-6b13-4ef2-9187-b2f00a6231d5" />
 </div>
 # 👋 Hi there, I'm Santhosh C V
 **Full-Stack Developer | Building AI tools & Web Applications**
