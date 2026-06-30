@@ -1,7 +1,8 @@
 <div align="center">
-![Aesthetic Banner](https://github.com/user-attachments/assets/4d21d23b-407f-4d31-a08e-f81f4975f826)
-<br/>
-
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="https://github.com/user-attachments/assets/4d21d23b-407f-4d31-a08e-f81f4975f826" type="video/mp4">
+  </video>
+</div>
 # 👋 Hi there, I'm Santhosh C V
 **Full-Stack Developer | Building AI tools & Web Applications**
 
