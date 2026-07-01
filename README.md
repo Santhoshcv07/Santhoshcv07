@@ -73,7 +73,11 @@ My coding journey, visualized through continuous contributions and consistency.
 </p>
 <h2 align="center">🛠️ Skills & Technologies</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,firebase,git,github,figma,vscode,java,python,unity&perline=10)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,firebase,git,github,figma,vscode,java,python,unity&perline=19" alt="My Skills" />
+  </a>
+</p>
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
