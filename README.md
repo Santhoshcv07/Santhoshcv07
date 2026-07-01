@@ -68,20 +68,8 @@ My coding journey, visualized through continuous contributions and consistency.
 <img src="https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 <br/><br/>
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-<h2 align="center">🛠️ Skills & Technologies</h2> 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,firebase,git,github,figma,vscode,java,python,unity&perline=19" alt="My Skills" />
-  </a>
-</p>
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
