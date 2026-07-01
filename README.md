@@ -62,12 +62,18 @@ I am a passionate developer currently focusing on creating scalable web applicat
 My coding journey, visualized through continuous contributions and consistency.
 </p>
 
-<br/>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Santhoshcv07/Santhoshcv07/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 <br/><br/>
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+<h2 align="center">🛠️ Skills & Technologies</h2> 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,firebase,git,github,figma,vscode,java,python,unity&perline=10)](https://skillicons.dev)
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
