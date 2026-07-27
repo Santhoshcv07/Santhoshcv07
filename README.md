@@ -89,9 +89,11 @@ A quick overview of my development activity and technology usage.
 
 <!-- GitHub General Stats & Top Languages -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats-gamma-lyart-15.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-gamma-lyart-15.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-new-brown.vercel.app/api?username=Santhoshcv07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-new-brown.vercel.app/api/top-langs/?username=Santhoshcv07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 <!-- GitHub Contribution Streak -->
 <p align="center">
