@@ -97,7 +97,8 @@ A quick overview of my development activity and technology usage.
 
 <!-- GitHub Contribution Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhoshcv07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://my-streak-stats-one.vercel.app/?user=Santhoshcv07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 
