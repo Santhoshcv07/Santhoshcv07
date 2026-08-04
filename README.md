@@ -32,7 +32,7 @@ I am a passionate developer currently focusing on creating scalable web applicat
 
 <!-- Socials & Views -->
 <a href="https://linkedin.com/in/santhosh-cv07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfolio-eta-mauve-21.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+<a href="https://santhosh-cv-07.vercel.app"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
