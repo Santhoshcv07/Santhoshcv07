@@ -97,7 +97,7 @@ A quick overview of my development activity and technology usage.
 
 <!-- GitHub Contribution Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Santhoshcv07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Santhoshcv07&theme=tokyonight&hide_border=true&refresh=1" />
 </p>
 
 
